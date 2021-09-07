@@ -8,5 +8,7 @@ namespace AppWithTests.Logic
 {
     class Account
     {
+        public string Name { get; set; }
+        public List<Test> Tests { get; set; }
     }
 }
