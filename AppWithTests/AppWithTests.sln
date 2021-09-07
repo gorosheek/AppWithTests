@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppWithTests", "AppWithTests\AppWithTests.csproj", "{DA611877-2443-4676-9691-45DA434A1ED3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppWithTests.Console", "AppWithTests\AppWithTests.Console.csproj", "{DA611877-2443-4676-9691-45DA434A1ED3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppWithTests.Logic", "AppWithTests.Logic\AppWithTests.Logic.csproj", "{FC05CC95-FF11-40B9-9325-01029B9DE457}"
 EndProject
